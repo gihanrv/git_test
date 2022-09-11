@@ -16,3 +16,7 @@ if 10 > 9 :
  print("True")
 else
  print("false")
+ 
+ 
+ while True :
+  echo "gihan"
