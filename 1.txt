@@ -1,2 +1,4 @@
 last
 game
+finish
+test
