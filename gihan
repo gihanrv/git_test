@@ -11,3 +11,8 @@ python
 list
 index
 print
+
+if 10 > 9 :
+ print("True")
+else
+ print("false")
