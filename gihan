@@ -20,3 +20,6 @@ else
  
  while True :
   echo "gihan"
+
+add A
+add B
